@@ -1,0 +1,7 @@
+C:\Users\aless\Desktop\ImplementazioneVerifica1\ImplementazioneVerifica1\bin\Debug\ImplementazioneVerifica1.exe.config
+C:\Users\aless\Desktop\ImplementazioneVerifica1\ImplementazioneVerifica1\bin\Debug\ImplementazioneVerifica1.exe
+C:\Users\aless\Desktop\ImplementazioneVerifica1\ImplementazioneVerifica1\bin\Debug\ImplementazioneVerifica1.pdb
+C:\Users\aless\Desktop\ImplementazioneVerifica1\ImplementazioneVerifica1\obj\Debug\ImplementazioneVerifica1.csproj.AssemblyReference.cache
+C:\Users\aless\Desktop\ImplementazioneVerifica1\ImplementazioneVerifica1\obj\Debug\ImplementazioneVerifica1.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\ImplementazioneVerifica1\ImplementazioneVerifica1\obj\Debug\ImplementazioneVerifica1.exe
+C:\Users\aless\Desktop\ImplementazioneVerifica1\ImplementazioneVerifica1\obj\Debug\ImplementazioneVerifica1.pdb
